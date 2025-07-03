@@ -20,7 +20,7 @@ float: "/assets/images/h_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/canyon_flowers.jpg"
+cover: "/assets/images/canyon-flowers.jpg"
 
 name: "Melissa Harper"
 author: "Melissa Harper"

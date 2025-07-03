@@ -30,7 +30,7 @@ Java, JavaScript, HTML, CSS, Python, SQL | React, Jest | PostgresQL
 
 #### EXPERIENCE
 
-##### Movie Selector — LaunchCode Project
+###### Movie Selector — LaunchCode Project
 
 ● Built as part of LaunchCode’s front-end unit demonstrating React and JavaScript logic
 ● Created an app using React that takes the effort out of choosing what movie to watch
@@ -40,13 +40,13 @@ Java, JavaScript, HTML, CSS, Python, SQL | React, Jest | PostgresQL
 ● Created a feedback form with real-time feedback and validation
 ● Styled components with CSS
 
-##### Legislative Chair — National Education Association, Mehlville Executive Board 2020-2022
+###### Legislative Chair — National Education Association, Mehlville Executive Board 2020-2022
 
 ● Analyzed comprehensive datasets to create MNEA advocacy platform for over 800 district educators.
 ● Implemented strategies achieving 94% accuracy in contact data.
 ● Developed a multi-faceted School Board candidate endorsement process.
 
-##### Industrial Technology, Theatre Educator- Program Director — Mehlville, Union, and West Plains School Districts 2012-2022
+###### Industrial Technology, Theatre Educator- Program Director — Mehlville, Union, and West Plains School Districts 2012-2022
 
 ● Collected, cleaned, and analyzed data for program improvement, resulting in 96% subject mastery.
 ● Created transposable learning systems, bisecting complex ideas into logical, reusable concepts.
@@ -56,7 +56,9 @@ communicating with vastly different stakeholders.
 #### EDUCATION
 
 **LaunchCode,** Software Development, 2025
+
 **Google,** Data Analytics Professional Certificate
+
 **Missouri State University,** BSed, Speech and Theatre Education
 
 

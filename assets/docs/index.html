@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Projects
+pagination:
+  enabled: true
 permalink: /projects/
 ---
 
@@ -40,6 +42,7 @@ permalink: /projects/
     <a href="{{ '/projects/' | prepend: site.baseurl }}">Projects</a>
     <br />
     {% for social in site.social %} {% if social.url %}
+    &nbsp;&nbsp;·&nbsp;&nbsp;
     <a
       class="icon-{{ social.icon }}"
       href="{{ social.url }}"

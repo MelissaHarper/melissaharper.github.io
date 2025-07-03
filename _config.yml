@@ -26,6 +26,7 @@ name: "Melissa Harper"
 author: "Melissa Harper"
 author_image: "/assets/images/harper.jpg"
 
+paginate_path: "/assets/docs/page:num"
 paginate:	10
 
 url: "https://melissaharper.github.io" # the base hostname & protocol for your site

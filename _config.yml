@@ -9,15 +9,15 @@ plugins:
 # Site settings
 title: "Melissa Harper"
 description: > # this means to ignore newlines until "email:"
-   This site is a small portfolio featuring some examples of my data science work.
+   Welcome! On this site you'll find information about myself, my tech skills, accomplishments, and some projects I have worked on over the years.
 
 #email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/h_logo.jpg"
+logo: "/assets/images/harper.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/gateway_arch.jpg"
+cover: "/assets/images/canyon_flowers.jpg"
 
 name: "Melissa Harper"
 author: "Melissa Harper"
@@ -36,16 +36,16 @@ baseurl: ""
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
-# social:
-#   - icon:	github
-#     url:	https://github.com/melissaharper
+social:
+  - icon:	github
+    url:	https://github.com/melissaharper
 #     desc:	
 #     share_url:
 #     share_title:
 #     share_link:
 
-#   - icon:	linkedin
-#     url:	www.linkedin.com/in/harper-melissa
+  - icon: linkedin
+    url:	www.linkedin.com/in/harper-melissa
 
 # #    desc:
 # #    share_url:

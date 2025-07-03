@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## About
+
 
 I spent a decade as an educator blissfully performing data analysis and adapting software for the classroom on the daily as a function of my job. When the time came to transition into a new career, the tech field was a natural transition.
 
@@ -20,15 +20,15 @@ Former high school theatre teacher and program director with 10+ years of experi
 
 ## Resume
 
-[Download Resume](assets/docs/Harper%20Resume.pdf)
-
-[http://www.linkedin.com/in/harper-melissa](http://www.linkedin.com/in/harper-melissa) [http://www.github.com/MelissaHarper](http://www.github.com/MelissaHarper)
+[Download Resume,](assets/docs/Harper%20Resume.pdf) [LinkedIn,](http://www.linkedin.com/in/harper-melissa)  [GitHub Repositories](http://www.github.com/MelissaHarper)
 
 #### LANGUAGES | FRAMEWORKS | TOOLS
 
-Java, JavaScript, HTML, CSS, Python, SQL | React, Jest | PostgresQL
+Java, JavaScript, HTML, CSS, Python, SQL   |-|   React, Jest   |-|   PostgresQL, MySQL Workbench  <br>
+<br>
 
-#### EXPERIENCE
+
+#### EXPERIENCE  
 
 ###### Movie Selector — LaunchCode Project
 

@@ -9,11 +9,18 @@ $rs: 16px
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
+$rs: 16px
+$font-serif: Linux Libertine
+$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+
 .cf
   @include clearfix
 
   $rs: 16px
+  $rs: 16px
 
+  $font-serif: Linux Libertine
+  $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
   $font-serif: Linux Libertine
   $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
@@ -113,11 +120,13 @@ body
     line-height: 50px
     word-break: break-word
     color: #C8C3BC
+    color: #C8C3BC
   .blog-description
     margin: 0 0 20px
     padding: 0 $rs*2
     font-size: $rs/8*9
     line-height: 1.5
+    color: #9FA095
     color: #9FA095
     text-align: center
     font-weight: 400
@@ -129,6 +138,7 @@ body
       text-decoration: none
       color: #999
       &:hover
+        color: #C8C3BC
         color: #C8C3BC
 
 .content
@@ -153,6 +163,7 @@ body
       margin: 0 0
       a
         text-decoration: none
+        color: #E8E6E3
         color: #E8E6E3
         &:hover
           text-decoration: none
@@ -198,8 +209,10 @@ body
   font-size: $rs/4*3
   a
     color: #E8E6E3
+    color: #E8E6E3
     text-decoration: none
     &:hover
+      color: #C8C3BC
       color: #C8C3BC
 
 .post-reading
@@ -209,6 +222,7 @@ body
   line-height: 44px
   display: inline-block
   white-space: nowrap
+  color: rgba(232, 230, 227,0.25)
   color: rgba(232, 230, 227,0.25)
   font-size: 14px
   letter-spacing: -0.02em
@@ -231,8 +245,10 @@ body
   line-height: $rs*1.1
   a
     color: #9FA095
+    color: #9FA095
     text-decoration: none
     &:hover
+      color: #C8C3BC
       color: #C8C3BC
 .post
   .article-image
@@ -336,6 +352,7 @@ body
       font-size: 50px
       line-height: 1.1
       color: #E8E6E3
+      color: #E8E6E3
       margin-bottom: 16px
     .author-image
       display: inline-block
@@ -364,6 +381,7 @@ body
     width: 100%
     font-family: $font-serif
     color: #C8C3BC
+    color: #C8C3BC
     h1, h2, h3
       font-family: $font-sans
     h3, h4, h5, h6
@@ -391,10 +409,12 @@ body
       margin: 0
       padding-bottom: 30px
       color: #C8C3BC
+      color: #C8C3BC
       -webkit-hyphens: auto
       -moz-hyphens: auto
       hyphens: auto
     a
+      color: #C8C3BC
       color: #C8C3BC
       text-decoration: underline
     img
@@ -447,7 +467,9 @@ body
       padding-top: 2px
       p
         padding: 0 0 golden-ratio(1rem, 1)
+        padding: 0 0 golden-ratio(1rem, 1)
     ol li
+        list-style-type: decimal
         list-style-type: decimal
   .bottom-teaser
     padding: 50px 0
@@ -473,6 +495,7 @@ body
         color: #000
         text-decoration: none
         &:hover
+          color: #C8C3BC
           color: #C8C3BC
           text-decoration: underline
       .author-image
@@ -511,11 +534,13 @@ body
         margin: 0
         padding: 0
         color: #C8C3BC
+        color: #C8C3BC
         text-align: left
         font-size: 14px
         line-height: 1.3
         color: #999
         a
+          color: #C8C3BC
           color: #C8C3BC
           text-decoration: none
           &:hover
@@ -524,6 +549,7 @@ body
           display: block
           padding-bottom: 18px
           font-weight: 700
+          color: #C8C3BC
           color: #C8C3BC
 .share
   text-align: right
@@ -535,6 +561,7 @@ body
     .hidden
       display: none
     &:hover
+      color: #C8C3BC
       color: #C8C3BC
 
 .bottom-closer
